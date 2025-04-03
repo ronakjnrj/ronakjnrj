@@ -1,6 +1,13 @@
 </h2>
 <h2 align="left">Hi, I'm Ronak Jain <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30" height="29" style="max-width: 100%; display: inline-block;" />
 <br>Backend Developer | Software Engineer</h2>
+<br>
+
+###
+
+# 💫 About Me:
+🔹 Passionate Python Developer with expertise in backend development and software engineering.<br>🔹 Skilled in Django, FastAPI, Flask, and MySQL for scalable applications.<br>🔹 Enthusiastic about AWS Cloud & Facial Recognition Systems (built FacePilot 🏆).<br>🔹 Currently exploring AI-powered solutions & cloud computing.
+<br>
 
 ###
 
@@ -32,6 +39,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo"  />
 </div>
+<br>
 
 ###
 
@@ -52,6 +60,7 @@
     <img src="https://img.shields.io/badge/Resume-%23FF1493.svg?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" height="35" alt="Resume" />
   </a>  
 </div>
+<br>
 
 ###
 
@@ -62,5 +71,11 @@
 <div align="center">
   <img src="https://profile-counter.glitch.me/ronakjnrj/count.svg?" alt="Profile Views" />
 </div>
+<br>
+
+###
+
+### My Motivation
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ###
