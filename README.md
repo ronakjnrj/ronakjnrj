@@ -37,7 +37,7 @@
 
 <div align="left">
   <a href="https://www.linkedin.com/in/ronakjnrj">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" height="35" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=Linkedin&logoColor=white" height="35" alt="LinkedIn" />
   </a>
   <a href="https://leetcode.com/u/ronakjnrj">
     <img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=white" height="35" alt="LeetCode" />
@@ -47,6 +47,9 @@
   </a>
   <a href="https://twitter.com/ronakjn_rj">
     <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" height="35" alt="Twitter" />
+  </a>  
+    <a href="https://drive.google.com/file/d/1xe0TotWuBaUN3URa08kNS5NZKJK45nY0/view?usp=drive_link">
+    <img src="https://img.shields.io/badge/Resume-%23FF1493.svg?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" height="35" alt="Resume" />
   </a>  
 </div>
 
