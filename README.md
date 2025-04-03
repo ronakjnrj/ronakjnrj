@@ -39,12 +39,15 @@
   <a href="https://www.linkedin.com/in/ronakjnrj">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" height="35" alt="LinkedIn" />
   </a>
+  <a href="https://leetcode.com/u/ronakjnrj">
+    <img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=white" height="35" alt="LeetCode" />
+  </a>
   <a href="https://www.instagram.com/ronakjnrj">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" height="35" alt="Instagram" />
   </a>
-  <a href="https://twitter.com/ronakjnrj">
+  <a href="https://twitter.com/ronakjn_rj">
     <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" height="35" alt="Twitter" />
-  </a>
+  </a>  
 </div>
 
 ###
