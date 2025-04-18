@@ -1,6 +1,6 @@
 </h2>
 <h2 align="left">Hi, I'm Ronak Jain <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30" height="29" style="max-width: 100%; display: inline-block;" />
-<br>Backend Developer | Software Engineer</h2>
+<br>Python Developer | Software Engineer</h2>
 
 ###
 
