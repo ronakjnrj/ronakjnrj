@@ -59,7 +59,7 @@
   <a href="https://twitter.com/ronakjn_rj">
     <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" height="35" alt="Twitter" />
   </a>  
-    <a href="https://drive.google.com/file/d/1xe0TotWuBaUN3URa08kNS5NZKJK45nY0/view?usp=drive_link">
+    <a href="[https://drive.google.com/file/d/1xe0TotWuBaUN3URa08kNS5NZKJK45nY0/view?usp=drive_link](https://drive.google.com/file/d/1xfwTtQ-TaiolRer93v4u81qDLFHqzlWS/view?usp=sharing)">
     <img src="https://img.shields.io/badge/Resume-%23FF1493.svg?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" height="35" alt="Resume" />
   </a>  
 </div>
