@@ -5,7 +5,7 @@
 ### 
  
 # 💫 About Me:
-🔹 Passionate Python Developer with expertise in backend development and software engineering.<br>🔹 Skilled in Django, FastAPI, Flask, and MySQL for scalable applications.<br>🔹 Enthusiastic about AWS Cloud & Facial Recognition Systems (built FacePilot 🏆).<br>🔹 Currently exploring AI-powered solutions & cloud computing.
+🔹 Passionate Python Developer with expertise in backend development and software engineering.<br>🔹 Skilled in Django,  FastAPI, Flask, and MySQL for scalable applications.<br>🔹 Enthusiastic about AWS Cloud & Facial Recognition Systems (built FacePilot 🏆).<br>🔹 Currently exploring AI-powered solutions & cloud computing.
 <br>
 <br>
 
